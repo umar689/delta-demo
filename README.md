@@ -2,7 +2,7 @@
 This is a Demo.
 
 # teacher 
-shradha khapra
+shradha khapra.
 
 # student
 umar khalid
